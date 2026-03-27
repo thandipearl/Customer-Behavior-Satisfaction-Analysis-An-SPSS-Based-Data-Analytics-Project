@@ -47,6 +47,9 @@ SPSS (Statistical analysis)
 ## Key Insights & Findings
 
 ### Customer Overview
+
+<img width="749" height="420" alt="1  Descriptive Statistics" src="https://github.com/user-attachments/assets/ca0583ca-ef08-41d1-8494-89c9c819b6e8" />
+
 The dataset revealed a diverse customer base with varying income levels, ages and spending habits. 
 
 Most customers fall into a **moderate satisfaction range**, which suggests there is room for improvement.
@@ -59,6 +62,11 @@ This means that a single strategy won’t work for everyone, the business needs 
 ### Customer Distribution (Gender & Region)
 Customers are fairly evenly distributed across gender and regions.
 
+<img width="888" height="520" alt="Frequesncy Destribution chart 1" src="https://github.com/user-attachments/assets/6b39f048-4025-42f5-b9c9-f48814ff2feb" />
+
+<img width="873" height="524" alt="Frequency Distribution chart 2" src="https://github.com/user-attachments/assets/b6df5ab7-9efd-4d9f-89e0-a24062407725" />
+
+
 **What this means:**
 The business serves a broad audience but there’s still an opportunity to optimize strategies by region.
 
@@ -66,6 +74,9 @@ The business serves a broad audience but there’s still an opportunity to optim
 
 ### Correlation Insights
 Some interesting relationships stood out:
+
+<img width="745" height="403" alt="3 Correlation Analysis" src="https://github.com/user-attachments/assets/e450a01c-c932-4009-994c-7e36d91adc59" />
+
 
 Customers who **visit more often** tend to be more satisfied  
 Customers with higher **spending scores** are also more satisfied  
@@ -78,6 +89,9 @@ Customer satisfaction is driven more by **engagement and experience** than by ho
 
 ### Gender Comparison (T-Test)
 There is little to no significant difference in satisfaction between male and female customers.
+
+<img width="1165" height="548" alt="4  Compare Groups T test" src="https://github.com/user-attachments/assets/898dce16-bafa-4c12-97d0-1ccc0bf131ee" />
+
 
 **What this means:**
 Focusing on gender-specific strategies is unlikely to improve satisfaction.
@@ -95,6 +109,9 @@ Low-performing regions need attention and improvement
 
 ### Regression Analysis (What Drives Satisfaction)
 
+<img width="762" height="855" alt="5  Regression" src="https://github.com/user-attachments/assets/0d9e6268-00a7-4cc8-9704-dcbe3893d7b9" />
+
+
 The most important drivers of satisfaction are:
 Spending Score  
 Visits Per Month  
@@ -108,6 +125,8 @@ Improving the **customer experience** and encouraging repeat visits is more impo
 
 ### Customer Segmentation (Clustering)
 
+<img width="405" height="834" alt="6  Kluster" src="https://github.com/user-attachments/assets/a418151c-168f-4f15-9ece-371b68266fae" />
+
 Customers were grouped into distinct segments such as:
 High income, high spending  
 Low income, high spending  
@@ -119,6 +138,12 @@ Not all customers behave the same, segmentation is key.
 ---
 
 ### Visual Insights
+
+<img width="741" height="516" alt="Statisfaction histogram" src="https://github.com/user-attachments/assets/71ef92d9-d122-4ed4-85d2-aebd101f13ee" />
+
+
+<img width="879" height="528" alt="Scatterplot" src="https://github.com/user-attachments/assets/b01d61a6-4c66-4e71-bd50-1f4c74472d7e" />
+
 
 Most customers are moderately satisfied  
 Income does not strongly predict spending  
